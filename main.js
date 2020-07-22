@@ -43,10 +43,10 @@ const employee = {
 
 // console.log(employee[keyToCheck])
 
-function empName = (name) {
-    if (name.firstName[0] === "R"){
-        name.status = "VIP"
-    } else {
-        name.status = "Peasant" 
-    }
-}
+// function empName = (name) {
+//     if (name.firstName[0] === "R"){
+//         name.status = "VIP"
+//     } else {
+//         name.status = "Peasant" 
+//     }
+// }
